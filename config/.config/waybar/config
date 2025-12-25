@@ -4,6 +4,7 @@
   "height": 30,
   "spacing": 4,
   "modules-left": [
+    "custom/arch-button",
     "hyprland/workspaces",
     "hyprland/window"
   ],
@@ -155,6 +156,11 @@
   "custom/power": {
     "format": "⏻",
     "on-click": "~/.config/waybar/scripts/power-menu.sh",
+    "tooltip": false
+  },
+  "custom/arch-button": {
+    "format": " ブレンダン",
+    "on-click": "~/.config/waybar/scripts/arch-button.sh",
     "tooltip": false
   }
 }

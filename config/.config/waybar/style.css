@@ -47,6 +47,7 @@ window#waybar {
 #pulseaudio,
 #custom-calendar,
 #custom-power,
+#custom-arch-button,
 #tray {
     background-color: rgba(17, 17, 27, 0.6);
     padding: 0 10px;
@@ -143,6 +144,12 @@ window#waybar {
 #custom-power:hover {
     background-color: rgba(243, 139, 168, 0.2);
     color: #f38ba8;
+}
+
+#custom-arch-button {
+    color: #f5e0dc;
+    margin-left: 5px;
+    padding-right: 12px;
 }
 
 @keyframes blink {
