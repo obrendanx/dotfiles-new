@@ -1,3 +1,7 @@
+SDDM Theme Credit To - https://github.com/MarianArlt/sddm-sugar-dark?tab=readme-ov-file
+Hypr + Waybar theme Credit To - https://github.com/binoymanoj/Hypr-Arch
+
+
 🧩 SYSTEM CORE
 base	Core Arch system files.
 base-devel	Build tools (needed for AUR).
